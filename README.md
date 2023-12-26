@@ -109,7 +109,11 @@ Procedural Content Generator made with Unity (2021.3.15f1)
 - [ ] Full Title Release
 <br>
   <img src="https://github.com/CanBerkSahin-io/Procedural_Content_Generation/assets/61757258/6c6cad31-b30c-49b0-9af9-3f9df442ed64" alt="Logo" width="675" height="350">
-  <img src="https://github.com/CanBerkSahin-io/Procedural_Content_Generation/assets/61757258/e3959e80-5598-45e4-8d54-02dd3d2d206c" alt="Logo" width="675" height="350">
+  <img src="https://github.com/CanBerkSahin-io/Procedural_Content_Generation/assets/61757258/6c6cad31-b30c-49b0-9af9-3f9df442ed64" alt="Logo" width="675" height="350">
+  <video src="https://github.com/CanBerkSahin-io/Procedural_Content_Generation/assets/61757258/cfe4260b-7382-4e8f-aea1-9b36e9753742" controls>
+  Your browser does not support the video tag.
+  </video>
+  <img src="https://github.com/CanBerkSahin-io/Procedural_Content_Generation/assets/61757258/cfe4260b-7382-4e8f-aea1-9b36e9753742" alt="video" width="675" height="350">
   <img src="https://github.com/CanBerkSahin-io/Procedural_Content_Generation/assets/61757258/4b269e7c-d9b9-430b-a7c2-a7d3757ba176" alt="Logo" width="675" height="200">
   <img src="https://github.com/CanBerkSahin-io/Procedural_Content_Generation/assets/61757258/8d312c94-f1a0-47cc-b012-cd56abe5cb1a" alt="Logo" width="700" height="450">
   <img src="https://github.com/CanBerkSahin-io/Procedural_Content_Generation/assets/61757258/598bf438-0fa3-40ec-99bf-ddb1c8bd8383" alt="Logo" width="700" height="450">
